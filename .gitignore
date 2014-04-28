@@ -11,3 +11,5 @@ WebContent/VAADIN/widgetsets
 ivy.xml
 
 ivysettings.xml
+
+dist

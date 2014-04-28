@@ -1,3 +1,7 @@
 Manifest-Version: 1.0
+Implementation-Title: DOM
+Implementation-Version: 0.1.0
+Vaadin-Package-Version: 1
+Vaadin-Widgetsets: org.vaadin.jouni.dom.DomWidgetset
 Class-Path: 
 
