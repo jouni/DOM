@@ -1,0 +1,13 @@
+/build
+
+.project
+
+.settings
+
+WebContent/VAADIN/widgetsets
+
+.classpath
+
+ivy.xml
+
+ivysettings.xml
