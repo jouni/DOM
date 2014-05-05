@@ -77,7 +77,7 @@ public class DomConnector extends AbstractExtensionConnector {
         var el = document.createElement('fakeelement');
         var transitions = {
           'transition': 'transitionend',
-          'OTransition': 'oAnimationEnd',
+          'OTransition': 'oTransitionEnd',
           'MozTransition': 'transitionend',
           'WebkitTransition': 'webkitTransitionEnd'
         }
